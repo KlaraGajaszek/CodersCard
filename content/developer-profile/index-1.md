@@ -1,10 +1,10 @@
 ---
-firstName: Jonathan
-lastName: Harwood
+firstName: Klara
+lastName: Gajaszek
 avatar: profile.jpg
 position: Fullstack developer
-phone: "123123123"
-email: jonathan.harwood@gmail.com
+phone: "883084834"
+email: klaragajaszek21@wp.pl
 city: Wroclaw
 country: Poland
 isFreelancer: true
