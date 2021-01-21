@@ -16,7 +16,7 @@ socialMedia:
       technologyValue: 5
     - technologyName: CSS
       technologyValue: 5
-    - technologyName: Styled-components
+    - technologyName: Styled-Components
       technologyValue: 4
     - technologyName: Material UI
       technologyValue: 4
@@ -44,7 +44,7 @@ socialMedia:
     - toolName: Postman
       toolValue: 3
     - toolName: JIRA
-      toolValue: 1
+      toolValue: 4
     - toolName: Figma
       toolValue: 5
     - toolName: Zeplin
