@@ -6,7 +6,7 @@ description: >-
   <!--StartFragment-->
 
 
-  **Dayli I work as a frontend developer in CDQ in Wroclaw. I graduated Wroclaw University of Technology and now I continue my education in Opole University of Technology. I am going to write a thesis about modern web applications. After work and during the break between studies I am mentor in Coders Camp and develop my programming skills in Coders Crew organization.** 
+  **On Daily I work as a frontend developer in CDQ in Wroclaw. I graduated Wroclaw University of Technology and now I continue my education in Opole University of Technology. I am going to write a thesis about modern web applications. After work and during the break between studies I am mentor in Coders Camp and develop my programming skills in Coders Crew organization.** 
 
 
   <!--EndFragment-->
