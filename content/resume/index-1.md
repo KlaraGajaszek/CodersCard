@@ -1,33 +1,41 @@
 ---
-resumePageTitle:
-resumePageDescription:
-resumePageImage:
+resumePageTitle: null
+resumePageDescription: null
+resumePageImage: null
 workExperience:
-  - startJobDate: 2019-11-02T20:06:48.583Z
-    finishJobDate: 2020-11-01T20:06:48.592Z
-    jobTitle: Senior front-end developer
-    companyName: Google
-    jobDescription: In tristique vulputate augue vel egestas. Quisque ac imperdiet tortor, at lacinia ex. Duis vel ex hendrerit, commodo odio sed, aliquam enim. Ut arcu nulla, tincidunt eget arcu eget, molestie vulputate nisi. Nunc malesuada leo et est iaculis facilisis. Fusce eu urna ut magna malesuada fringilla.
-  - startJobDate: 2020-02-02T20:09:54.359Z
-    finishJobDate: 2020-09-01T19:09:54.371Z
-    jobTitle: React.js developer
-    companyName: Facebook
-    jobDescription: In tristique vulputate augue vel egestas. Quisque ac imperdiet tortor, at lacinia ex. Duis vel ex hendrerit, commodo odio sed, aliquam enim. Ut arcu nulla, tincidunt eget arcu eget, molestie vulputate nisi. Nunc malesuada leo et est iaculis facilisis. Fusce eu urna ut magna malesuada fringilla.
-  - startJobDate: 2017-11-02T20:11:46.025Z
-    finishJobDate: 2018-11-02T20:12:59.850Z
-    jobTitle: Junior front-end developer
-    companyName: Google
-    jobDescription: In tristique vulputate augue vel egestas. Quisque ac imperdiet tortor, at lacinia ex. Duis vel ex hendrerit, commodo odio sed, aliquam enim. Ut arcu nulla, tincidunt eget arcu eget, molestie vulputate nisi. Nunc malesuada leo et est iaculis facilisis. Fusce eu urna ut magna malesuada fringilla.
-
+  - startJobDate: 2019-12-01T20:06:48.583Z
+    finishJobDate: 2021-02-20T20:46:38.522Z
+    jobTitle: React Developer
+    companyName: CDQ
+    jobDescription: I am responsible for implement new mockups in CDQ applications
+      in React, Redux, TypeScript and Tailwind. I have started implement backend
+      in Node.js.
+  - startJobDate: 2020-04-01T19:09:54.359Z
+    finishJobDate: 2020-11-30T20:09:54.371Z
+    jobTitle: Software Developer
+    companyName: CommerzBank
+    jobDescription: I was a frontend developer in the fintech projects. I developed
+      an internal application and create internal UI library in React.js,
+      Storybook, Styled-Components
+  - startJobDate: 2019-02-01T20:41:31.133Z
+    finishJobDate: 2020-03-31T19:12:59.850Z
+    jobTitle: Junior Software Developer
+    companyName: Procom System
+    jobDescription: I created application in clean HTML and CSS for robotic
+      industry. I was responsible for creating and generating report in SQL.
 education:
-  - startSchoolDate: 2020-10-02T20:11:46.025Z
-    finishSchoolDate: 2020-11-02T20:12:59.850Z
-    schoolName: Master Degree, Wroclaw University of Economics
-    course: Finanse and Accounting, sp. Real Estate
-    educationDescription: Maecenas eu lobortis ex. Vivamus ultrices tristique libero, non auctor risus pretium nec. In leo neque, mollis eu volutpat eget, sodales ac lacus. Curabitur et ligula tincidunt, ultrices dui a, malesuada est. Cras blandit dignissim suscipit. Integer semper diam mauris, ac efficitur dui hendrerit eget.
-  - startSchoolDate: 2017-10-01T19:05:57.745Z
-    finishSchoolDate: 2020-06-14T22:00:00.000Z
-    schoolName: Bachelor Degree Warsaw School of Economics
-    course: Managment, sp. Project Managment
-    educationDescription: Maecenas eu lobortis ex. Vivamus ultrices tristique libero, non auctor risus pretium nec. In leo neque, mollis eu volutpat eget, sodales ac lacus. Curabitur et ligula tincidunt, ultrices dui a, malesuada est. Cras blandit dignissim suscipit. Integer semper diam mauris, ac efficitur dui hendrerit eget.
+  - startSchoolDate: 2019-11-03T21:11:46.025Z
+    finishSchoolDate: 2021-02-20T20:35:28.131Z
+    schoolName: Opole University of Technology
+    course: "Computer Science  "
+    educationDescription: I am studing in absentia on the web application
+      specialization. I am writing master thesis about  the impact of tests on
+      the quality and performance of the frontend application
+  - startSchoolDate: 2021-02-20T20:28:33.538Z
+    finishSchoolDate: 2019-02-01T20:28:53.208Z
+    schoolName: Bachelor Degree wroclav University of Technology
+    course: Automatics and Robotics
+    educationDescription: During studies I have started learn programming and then
+      when I graduated I worked as a junior developer and created frontend
+      application for robotic industry
 ---
