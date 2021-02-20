@@ -4,7 +4,7 @@ resumePageDescription: null
 resumePageImage: null
 workExperience:
   - startJobDate: 2019-12-01T20:06:48.583Z
-    finishJobDate: 2021-02-20T20:46:38.522Z
+    finishJobDate: 2021-02-20T22:13:57.468Z
     jobTitle: React Developer
     companyName: CDQ
     jobDescription: I am responsible for implement new mockups in CDQ applications
