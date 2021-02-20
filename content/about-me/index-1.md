@@ -25,8 +25,26 @@ description: >-
 
   * 🍃 My goal is to write the best code (clean and clear) and be the fullstack web developer 
 
-  * 🐾 I like board games and spent time with friends dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+  * 🐾 I like board games and spent time with friends                                                                                                                                      
+                                                                                                             
 
+                                                                                                                
+
+                                                                                                        
+
+                                                                                                        
+
+                                                                                                        
+
+                                                                                                             
+
+                                                                                                              
+
+                                                                                                         
+
+                                                                                                               
+
+                                                                                                          
 
   <!--EndFragment-->
 socialMedia:
