@@ -8,7 +8,7 @@ email: klaragajaszek21@wp.pl
 city: Wroclaw
 country: Poland
 isFreelancer: false
-cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
+cv: https://res.cloudinary.com/dixekqpwi/image/upload/v1613865083/Navy_Blue_and_Black_Professional_Resume_3_ld305r.pdf
 socialMedia:
   twitter: ""
   github: https://github.com/KlaraGajaszek?tab=repositories
