@@ -5,12 +5,10 @@ aboutPageImage: null
 description: >-
   <!--StartFragment-->
 
+
   <h2> 🔥 Hi, I'm Klara</h2>
-
-  ## I live in Wroclaw but I open to remote work
-
-  ## I am crazy about frontend visualization and new technologies
-
+       I live in Wroclaw but I open to remote work
+       I am crazy about frontend visualization and new technologies
 
   ### Below find some interesting facts about me:
 
@@ -25,8 +23,9 @@ description: >-
 
   * 🍃 My goal is to write the best code (clean and clear) and be the fullstack web developer 
 
-  * 🐾 I like board games and spent time with friends                                                                                                                                      
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+  * 🐾 I like board games and spent time with friends                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+
+
   <!--EndFragment-->
 socialMedia:
   technologies:
