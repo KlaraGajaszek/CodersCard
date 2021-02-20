@@ -37,7 +37,7 @@ projects:
       <!--StartFragment-->
 
 
-      Project relies on Netlify CMS that allows developers to create their portfolio in minutes. After filling in your information via CMS you can host a portfolio website for yourself in minutes. Fun fact, this website was created with CodersCard! 🎉
+      Project relies on Netlify CMS that allows developers to create their portfolio in minutes. After filling in your information via CMS you can host a portfolio website for yourself in minutes.
 
 
       <!--EndFragment-->
