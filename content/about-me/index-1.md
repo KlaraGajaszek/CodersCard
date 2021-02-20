@@ -19,11 +19,12 @@ description: >-
 
   * :statue_of_liberty: After work I share my knowledge as a mentor in Coder Camp
 
-  * :school: I study computer science
+  * :school: I study Computer Science and I graduated Automation and Robotics
 
-  * :eyeglasses: My goal is to write the best code (clean and clear) 
+  * :construction_worker: I am interested in new web technologies
 
-  ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+  * :eyeglasses: My goal is to write the best code (clean and clear) and be the fullstack web developer 
+
 
   <!--EndFragment-->
 socialMedia:
