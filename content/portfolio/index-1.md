@@ -24,7 +24,7 @@ projects:
     projectPreviewImage: memepoker2.png
     projectRole: I was responsible for implemented frontend in React base on
       mockups. I created it with CodersCrew members.
-    projectMockups: https://github.com/CodersCrew/CodersCard
+    projectMockups: ""
     projectStartDate: 2020-06-01T17:54:03.317Z
     projectFinishDate: 2020-10-30T11:45:41.772Z
     projectLabel: Web App
