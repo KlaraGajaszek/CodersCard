@@ -5,9 +5,25 @@ aboutPageImage: null
 description: >-
   <!--StartFragment-->
 
+  <h2> 🔥 Hi, I'm Klara</h2>
 
-  **On Daily I work as a frontend developer in CDQ in Wroclaw. I graduated Wroclaw University of Technology and now I continue my education in Opole University of Technology. I am going to write a thesis about modern web applications. After work and during the break between studies I am mentor in Coders Camp and develop my programming skills in Coders Crew organization.** 
+  ## I live in Wroclaw but I open to remote work
 
+  ## I am crazy about frontend visualization and new technologies
+
+
+  ### :eyes: Below find some interesting facts about me:
+
+
+  * :pencil2: Currently I work as a Frontend dev in CDQ
+
+  * :statue_of_liberty: After work I share my knowledge as a mentor in Coder Camp
+
+  * :school: I study computer science
+
+  * :eyeglasses: My goal is to write the best code (clean and clear) 
+
+  ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
   <!--EndFragment-->
 socialMedia:
@@ -37,6 +53,14 @@ socialMedia:
     - technologyName: Gatsby
       technologyValue: 2
     - technologyName: SQL
+      technologyValue: 3
+    - technologyName: TypeScript
+      technologyValue: 3
+    - technologyName: Unit tests
+      technologyValue: 3
+    - technologyName: Tailwind
+      technologyValue: 2
+    - technologyName: Snapshot tests
       technologyValue: 3
   tools:
     - toolName: Git, Github, BitBucket
