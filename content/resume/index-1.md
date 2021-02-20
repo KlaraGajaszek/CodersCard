@@ -26,14 +26,14 @@ workExperience:
 education:
   - startSchoolDate: 2019-11-03T21:11:46.025Z
     finishSchoolDate: 2021-02-20T20:35:28.131Z
-    schoolName: Opole University of Technology
+    schoolName: Master Degree Opole University of Technology
     course: "Computer Science  "
     educationDescription: I am studing in absentia on the web application
       specialization. I am writing master thesis about  the impact of tests on
       the quality and performance of the frontend application
   - startSchoolDate: 2021-02-20T20:28:33.538Z
     finishSchoolDate: 2019-02-01T20:28:53.208Z
-    schoolName: Bachelor Degree wroclav University of Technology
+    schoolName: Bachelor Degree Wroclaw University of Technology
     course: Automatics and Robotics
     educationDescription: During studies I have started learn programming and then
       when I graduated I worked as a junior developer and created frontend
