@@ -12,18 +12,20 @@ description: >-
   ## I am crazy about frontend visualization and new technologies
 
 
-  ### :eyes: Below find some interesting facts about me:
+  ### Below find some interesting facts about me:
 
 
-  * :pencil2: Currently I work as a Frontend dev in CDQ
+  * 💻 Currently I work as a Frontend dev in CDQ
 
-  * :statue_of_liberty: After work I share my knowledge as a mentor in Coder Camp
+  * 👀 After work I share my knowledge as a mentor in Coder Camp
 
-  * :school: I study Computer Science and I graduated Automation and Robotics
+  * 💧  I study Computer Science and I graduated Automation and Robotics
 
-  * :construction_worker: I am interested in new web technologies
+  * ⚡ I am interested in new web technologies
 
-  * :eyeglasses: My goal is to write the best code (clean and clear) and be the fullstack web developer 
+  * 🍃 My goal is to write the best code (clean and clear) and be the fullstack web developer 
+
+  * 🐾 I like board games and spent time with friends dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 
   <!--EndFragment-->
