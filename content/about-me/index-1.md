@@ -34,18 +34,7 @@ description: >-
 
                                                                                                         
 
-                                                                                                        
-
-                                                                                                             
-
-                                                                                                              
-
-                                                                                                         
-
-                                                                                                               
-
-                                                                                                          
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
   <!--EndFragment-->
 socialMedia:
   technologies:
