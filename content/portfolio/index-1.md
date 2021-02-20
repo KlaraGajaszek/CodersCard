@@ -57,4 +57,20 @@ projects:
     projectStartDate: 2020-07-01T21:25:02.807Z
     projectFinishDate: 2021-02-20T22:25:02.827Z
     projectLabel: Web app
+  - projectPreviewNote: In progress
+    projectTechnologies:
+      - technologyName: React
+      - technologyName: Redux
+      - technologyName: Rect Testing Library
+      - technologyName: Jest
+    projectDescription: This is really simply application imitating e-commerce
+      application. I created this application because I would like to train
+      Redux, Unit and Integration tests and backend skills.
+    projectName: Super Shop
+    projectCode: https://github.com/KlaraGajaszek/SuperShop
+    projectPreviewImage: yyyy.png
+    projectRole: I created project configuration, architecture, Unit and Integration tests.
+    projectStartDate: 2020-12-14T22:36:00.273Z
+    projectFinishDate: 2021-02-20T22:36:00.304Z
+    projectLabel: Web app
 ---
