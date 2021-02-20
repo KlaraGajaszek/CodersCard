@@ -39,7 +39,7 @@ projects:
     projectName: My Awesome Project 2
     projectCode: https://github.com/CodersCrew/CodersCard
     projectApp: https://github.com/CodersCrew/CodersCard
-    projectPreviewImage: background.jpg
+    projectPreviewImage: memepoker2.png
     projectRole: Role. In vel tellus ac quam elementum vulputate. Proin quis eros in
       elit luctus tempor. Aenean in hendrerit metus. Donec congue enim a dui
       efficitur, a pellentesque.
