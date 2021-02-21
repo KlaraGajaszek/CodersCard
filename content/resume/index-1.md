@@ -3,7 +3,7 @@ resumePageTitle: null
 resumePageDescription: null
 resumePageImage: null
 workExperience:
-  - startJobDate: 2019-12-01T20:06:48.583Z
+  - startJobDate: 2020-12-01T20:06:48.583Z
     finishJobDate: 2021-02-20T22:13:57.468Z
     jobTitle: React Developer
     companyName: CDQ
