@@ -117,4 +117,21 @@ projects:
     projectStartDate: 2021-02-21T15:40:12.789Z
     projectFinishDate: 2021-02-21T15:43:22.696Z
     projectLabel: Web App
+  - projectPreviewNote: "Really simply application base on JavaScript. "
+    projectTechnologies:
+      - technologyName: HTML
+      - technologyName: CSS
+      - technologyName: JavaScript
+    projectDescription: This is really basic logic project. Supports all available
+      chess rules and 3 special css visualization which was implemented base on
+      mackup in FIGMA.
+    projectName: Chess Game
+    projectCode: ""
+    projectApp: https://captainobjective.github.io/chessGame/
+    projectPreviewImage: cheese.png
+    projectRole: "I implemented special logic base on chess rules in JavaScript. "
+    projectMockups: https://github.com/KlaraGajaszek/chessGame
+    projectStartDate: 2021-02-21T16:04:04.560Z
+    projectFinishDate: 2021-02-21T16:04:04.619Z
+    projectLabel: Web App
 ---
