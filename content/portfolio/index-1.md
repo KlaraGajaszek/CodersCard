@@ -84,17 +84,37 @@ projects:
       <!--StartFragment-->
 
 
-      In this project, I had to build an application that can search photos or images by filtering the attributes you specify. You can login by email or facebook.
+      In this project, I had to build an application that can search photos or images by filtering the attributes which you specify. You can login by email or facebook and if you forget the credential, don’t worry, you will receive a reminder email with it. 
 
 
       <!--EndFragment-->
-    projectName: Imagyfy
+    projectName: Imagify
     projectCode: https://github.com/KlaraGajaszek/Imagify
     projectApp: https://cc-imagify.herokuapp.com
     projectPreviewImage: obraz_2021-02-21_105536.png
-    projectRole: I was responsible for backend in node.js. I created login with
-      Passport.js library and build data model with mongo data base.
+    projectRole: "I was responsible for backend in node.js. I created login with
+      Passport.js library and build data model with mongo data base.\rYou can
+      see more details on github"
     projectStartDate: 2019-09-18T08:47:04.046Z
     projectFinishDate: 2020-11-12T09:47:04.087Z
+    projectLabel: Web App
+  - projectPreviewNote: Commercial project for all kindergarten in Wroclaw
+    projectTechnologies:
+      - technologyName: MaterialUI
+      - technologyName: GraphQL
+      - technologyName: React
+      - technologyName: Mongo
+      - technologyName: Vercel
+    projectDescription: "This project is digitization from \rpaper documents to web
+      app. Thanks for this application every kindergarten in Wroclaw could share
+      data which pertain to children. Now I can't share any url to this
+      application."
+    projectName: Mali Wspaniali
+    projectPreviewImage: mali1.jpg
+    projectRole: "I am frontend (React) developer. On dayli I implement new views
+      which I receive from UI team. This project I do after and before work and
+      we are going to finish it on March. "
+    projectStartDate: 2021-02-21T15:40:12.789Z
+    projectFinishDate: 2021-02-21T15:43:22.696Z
     projectLabel: Web App
 ---
