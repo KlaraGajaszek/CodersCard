@@ -8,7 +8,7 @@ workExperience:
     jobTitle: React Developer
     companyName: CDQ
     jobDescription: "I am responsible for implement new features in CDQ applications
-      in React, Redux, TypeScript and Tailwind. I work in tema with UI, Java and
+      in React, Redux, TypeScript and Tailwind. I work in team with UI, Java and
       Devops developers. I work very close with PO and we discuss about new
       features and together determine the further development of the
       applications. "
@@ -16,15 +16,18 @@ workExperience:
     finishJobDate: 2020-11-30T20:09:54.371Z
     jobTitle: Software Developer
     companyName: CommerzBank
-    jobDescription: I was a frontend developer in the fintech projects. I developed
-      an internal application and create internal UI library in React.js,
-      Storybook, Styled-Components.
+    jobDescription: "I was a frontend developer in the fintech projects. I improved
+      and expanded React shared components gallery base on Storybook,
+      Styled-Components. Collaborate with Product Owners from all around the
+      world teams, CTOs, Project Managers. Technology stack: React, CSS, HTML,
+      SQL"
   - startJobDate: 2019-02-01T20:41:31.133Z
     finishJobDate: 2020-03-31T19:12:59.850Z
     jobTitle: Junior Software Developer
     companyName: Procom System
-    jobDescription: I created application in clean HTML and CSS for robotic
-      industry. I was responsible for creating and generating report in SQL.
+    jobDescription: It was my first job as a software developer. I created
+      application in clean HTML and CSS for robotic industry. I was responsible
+      for creating and generating report in SQL.
 education:
   - startSchoolDate: 2019-11-03T21:11:46.025Z
     finishSchoolDate: 2021-02-20T20:35:28.131Z
