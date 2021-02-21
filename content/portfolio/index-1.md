@@ -42,7 +42,7 @@ projects:
 
       <!--EndFragment-->
     projectName: Coders Card
-    projectCode: https://github.com/CodersCrew/CodersCard
+    projectCode: https://coderscard.netlify.app/
     projectApp: https://github.com/CodersCrew/CodersCard
     projectPreviewImage: ttt.png
     projectRole: >-
