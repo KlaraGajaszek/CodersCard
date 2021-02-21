@@ -72,5 +72,23 @@ projects:
     projectRole: I created project configuration, architecture, Unit and Integration tests.
     projectStartDate: 2020-12-14T22:36:00.273Z
     projectFinishDate: 2021-02-20T22:36:00.304Z
-    projectLabel: Web app
+    projectLabel: Web App
+  - projectPreviewNote: Project to find images or photo in minutes.
+    projectDescription: >-
+      <!--StartFragment-->
+
+
+      In this project, I had to build an application that can search photos or images by filtering the attributes you specify. You can login by email or facebook.
+
+
+      <!--EndFragment-->
+    projectName: Imagyfy
+    projectCode: https://github.com/KlaraGajaszek/Imagify
+    projectApp: https://cc-imagify.herokuapp.com
+    projectPreviewImage: obraz_2021-02-21_105536.png
+    projectRole: I was responsible for backend in node.js. I created login with
+      Passport.js library and build data model with mongo data base.
+    projectStartDate: 2021-02-21T09:47:04.046Z
+    projectFinishDate: 2021-02-21T09:47:04.087Z
+    projectLabel: Web App
 ---
