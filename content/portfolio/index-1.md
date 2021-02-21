@@ -20,7 +20,7 @@ projects:
       <!--EndFragment-->
     projectName: Meme Poker
     projectCode: https://github.com/CaptainObjective/Meme-Poker
-    projectApp: ""
+    projectApp: https://meme-poker-dev.herokuapp.com
     projectPreviewImage: memepoker2.png
     projectRole: I was responsible for implemented frontend in React base on
       mockups. I created it with CodersCrew members.
