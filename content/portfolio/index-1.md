@@ -74,6 +74,12 @@ projects:
     projectFinishDate: 2021-02-20T22:36:00.304Z
     projectLabel: Web App
   - projectPreviewNote: Project to find images or photo in minutes.
+    projectTechnologies:
+      - technologyName: Node.js
+      - technologyName: Passport
+      - technologyName: JavaScript
+      - technologyName: HTML
+      - technologyName: CSS
     projectDescription: >-
       <!--StartFragment-->
 
