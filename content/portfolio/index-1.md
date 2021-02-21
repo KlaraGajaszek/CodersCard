@@ -56,7 +56,7 @@ projects:
     projectMockups: https://www.figma.com/file/bM9b4fMCze8dgwzRzvMaNp/CodersCard-Mockups?node-id=1%3A3
     projectStartDate: 2020-07-01T21:25:02.807Z
     projectFinishDate: 2021-02-20T22:25:02.827Z
-    projectLabel: Web app
+    projectLabel: Web App
   - projectPreviewNote: In progress
     projectTechnologies:
       - technologyName: React
