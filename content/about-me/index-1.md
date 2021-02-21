@@ -7,11 +7,7 @@ description: >-
 
 
   <h2> 🔥 Hi, I'm Klara</h2>
-
-  * I live in Wroclaw but I open to remote work
-
-  * I am crazy about frontend visualization and new technologies
-
+   I am crazy about frontend visualization and new technologies
 
   ### Below find some interesting facts about me:
 
