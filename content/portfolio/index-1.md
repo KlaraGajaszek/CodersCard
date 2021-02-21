@@ -94,7 +94,7 @@ projects:
     projectPreviewImage: obraz_2021-02-21_105536.png
     projectRole: I was responsible for backend in node.js. I created login with
       Passport.js library and build data model with mongo data base.
-    projectStartDate: 2021-02-21T09:47:04.046Z
-    projectFinishDate: 2021-02-21T09:47:04.087Z
+    projectStartDate: 2019-09-18T08:47:04.046Z
+    projectFinishDate: 2020-11-12T09:47:04.087Z
     projectLabel: Web App
 ---
